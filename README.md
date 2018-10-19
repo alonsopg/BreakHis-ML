@@ -5,7 +5,7 @@ See report.pdf for full report of experiments.
 
 # Author: 
 - Thanaphon Chavengsaksongkram
-- Alonso Par 
+- Alonso Palomino-Garibay 
 - Lauren Watson
         
         
